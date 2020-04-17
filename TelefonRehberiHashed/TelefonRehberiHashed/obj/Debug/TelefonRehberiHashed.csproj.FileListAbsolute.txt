@@ -1,0 +1,7 @@
+C:\Users\hakta\source\repos\TelefonRehberiHashed\TelefonRehberiHashed\bin\Debug\TelefonRehberiHashed.exe.config
+C:\Users\hakta\source\repos\TelefonRehberiHashed\TelefonRehberiHashed\bin\Debug\TelefonRehberiHashed.exe
+C:\Users\hakta\source\repos\TelefonRehberiHashed\TelefonRehberiHashed\bin\Debug\TelefonRehberiHashed.pdb
+C:\Users\hakta\source\repos\TelefonRehberiHashed\TelefonRehberiHashed\obj\Debug\TelefonRehberiHashed.csprojAssemblyReference.cache
+C:\Users\hakta\source\repos\TelefonRehberiHashed\TelefonRehberiHashed\obj\Debug\TelefonRehberiHashed.csproj.CoreCompileInputs.cache
+C:\Users\hakta\source\repos\TelefonRehberiHashed\TelefonRehberiHashed\obj\Debug\TelefonRehberiHashed.exe
+C:\Users\hakta\source\repos\TelefonRehberiHashed\TelefonRehberiHashed\obj\Debug\TelefonRehberiHashed.pdb
